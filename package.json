@@ -1,0 +1,15 @@
+{
+  "name": "statapi",
+  "version": "1.0.0",
+  "description": "api for download from a stat site",
+  "main": "statAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navid Farahmand",
+  "license": "ISC",
+  "dependencies": {
+    "htmlparser2": "^3.9.2",
+    "request": "^2.79.0"
+  }
+}
